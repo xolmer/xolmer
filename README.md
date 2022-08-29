@@ -1,4 +1,4 @@
-Hi 👋 My name is Kaveh Aidivandi
+Kaveh Aidivandi
 ================================
 
 Blockchain Developer
