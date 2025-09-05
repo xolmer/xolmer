@@ -1,7 +1,7 @@
 Kaveh
 ================================
 
-Blockchain Developer
+Software Developer
 
 * 🖥️  See my portfolio at [kaveh.dev](http://kaveh.dev)
 
